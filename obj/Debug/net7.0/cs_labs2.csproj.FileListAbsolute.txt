@@ -1,0 +1,15 @@
+/home/ferret/kpfu/cs_labs2/bin/Debug/net7.0/cs_labs2
+/home/ferret/kpfu/cs_labs2/bin/Debug/net7.0/cs_labs2.deps.json
+/home/ferret/kpfu/cs_labs2/bin/Debug/net7.0/cs_labs2.runtimeconfig.json
+/home/ferret/kpfu/cs_labs2/bin/Debug/net7.0/cs_labs2.dll
+/home/ferret/kpfu/cs_labs2/bin/Debug/net7.0/cs_labs2.pdb
+/home/ferret/kpfu/cs_labs2/obj/Debug/net7.0/cs_labs2.csproj.AssemblyReference.cache
+/home/ferret/kpfu/cs_labs2/obj/Debug/net7.0/cs_labs2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ferret/kpfu/cs_labs2/obj/Debug/net7.0/cs_labs2.AssemblyInfoInputs.cache
+/home/ferret/kpfu/cs_labs2/obj/Debug/net7.0/cs_labs2.AssemblyInfo.cs
+/home/ferret/kpfu/cs_labs2/obj/Debug/net7.0/cs_labs2.csproj.CoreCompileInputs.cache
+/home/ferret/kpfu/cs_labs2/obj/Debug/net7.0/cs_labs2.dll
+/home/ferret/kpfu/cs_labs2/obj/Debug/net7.0/refint/cs_labs2.dll
+/home/ferret/kpfu/cs_labs2/obj/Debug/net7.0/cs_labs2.pdb
+/home/ferret/kpfu/cs_labs2/obj/Debug/net7.0/cs_labs2.genruntimeconfig.cache
+/home/ferret/kpfu/cs_labs2/obj/Debug/net7.0/ref/cs_labs2.dll
